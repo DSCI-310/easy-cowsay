@@ -10,7 +10,7 @@ Easy cowsay is a project specially designed to show the wonders of reproducibili
 2. Clone this repository
 3. Open the project folder
 4. Run `renv::restore()` on the R console to install the R dependencies
-5. Run the file `hello_world.R`
+5. Run the script `hello_world.R`
 6. That's it! 🥳
 
 Notice how you did not have to install any R package manually, `{renv}` took care of everything!
